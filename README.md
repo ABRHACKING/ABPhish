@@ -15,3 +15,8 @@ $ unzip sites.zip
 $ chmod +x abphish.sh
 
 $ ./abphish.sh
+
+
+
+# Read
+This tool has almost the same principle as SocialPhish
