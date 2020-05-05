@@ -7,9 +7,9 @@ $ git clone https://github.com/ABRHACKING/ABPhish.git
 
 $ sudo apt-get install unzip
 
-$ unzip sites.zip
-
 $ cd ABPhish
+
+$ unzip sites.zip
 
 $ chmod +x abphish.sh
 
