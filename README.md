@@ -3,9 +3,9 @@ All my tools are created for an educational purpose , Im not responsible for any
 
 
 # Installation
-$ git clone https://github.com/ABRHACKING/ABPhish.git
-
 $ sudo apt-get install unzip
+
+$ git clone https://github.com/ABRHACKING/ABPhish.git
 
 $ cd ABPhish
 
