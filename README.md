@@ -11,6 +11,7 @@ $ cd ABPhish
 
 $ unzip sites.zip
 
+# Open ABPhish
 $ chmod +x abphish.sh
 
 $ ./abphish.sh
